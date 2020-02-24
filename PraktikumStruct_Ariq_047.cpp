@@ -5,7 +5,7 @@ using namespace std;
 struct data_buyer
 {
     string name;
-    char cd[5] ;
+    char cd[5];
     string status;
 };
 struct buyer
